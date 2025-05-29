@@ -1,7 +1,8 @@
-## Hi there 👋
+# 🙋🏻‍♂️  Paulo Ricardo
 
-Me chamo Paulo Ricardo, sou um Programador Front-End, depois que passei a estudar a ária de Programação comecei a gostar e estou focado em aprender mais e mais. 
-Atualmente estou criando projetos como:
+**`Programador Front-end`**
+
+Me chamo Paulo Ricardo, tenho 30 anos e sou de Fortaleza-CE. Atualmente, estou cursando Análise de Desenvolvimento de Sistemas e estudando Programação no Curso do DevClub. Sou apaixonado por tecnologia.
 <br>
 <br>
 
@@ -9,6 +10,9 @@ Atualmente estou criando projetos como:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript-logo"/>
 <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="React-logo"/>
+<a href="https://www.linkedin.com/feed/#:~:text=Eu-,Paulo%20Ricardo,%2D%2DProgramador%20Front%20End%20%7C%20Desenvolvedor%20Front%20End,-Ver%20perfil">Meu Linkedin</a>
+<br>
+<br>
 
 [![Pulo Ricardo stats](https://github-readme-stats.vercel.app/api?username=paulopkj)](https://github.com/anuraghazra/github-readme-stats)
 [![Pulo Ricardo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopkj)](https://github.com/anuraghazra/github-readme-stats)
