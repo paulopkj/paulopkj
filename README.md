@@ -10,10 +10,16 @@ Me chamo Paulo Ricardo, tenho 30 anos e sou de Fortaleza-CE. Atualmente, estou c
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript-logo"/>
 <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="React-logo"/>
-<a href="https://www.linkedin.com/feed/#:~:text=Eu-,Paulo%20Ricardo,%2D%2DProgramador%20Front%20End%20%7C%20Desenvolvedor%20Front%20End,-Ver%20perfil">Meu Linkedin</a>
-<br>
-<br>
 
+<a href="https://www.linkedin.com/feed/#:~:text=Eu-,Paulo%20Ricardo,%2D%2DProgramador%20Front%20End%20%7C%20Desenvolvedor%20Front%20End,-Ver%20perfil">Meu Linkedin</a>
+
+<a href="">Portfólio</a>
+
+<a href="https://www.instagram.com/paulo_oliveirapk?igsh=czdxa2N4NWV3YmRi">Instagram</a>
+
+<a href="mailto:contato@meucontato.com.br">Whatsapp</a>
+<br>
+<br>
 # 📊  Estatísticas
 
 [![Pulo Ricardo stats](https://github-readme-stats.vercel.app/api?username=paulopkj)](https://github.com/anuraghazra/github-readme-stats)
