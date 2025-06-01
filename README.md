@@ -27,3 +27,5 @@ Me chamo Paulo Ricardo, tenho 30 anos e sou de Fortaleza-CE. Atualmente, estou c
 [![Pulo Ricardo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopkj)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="http://127.0.0.1:5500/PROJETOS/Wid%20location.png">
+
+![](https://komarev.com/ghpvc/?username=paulopkj-github-username)
