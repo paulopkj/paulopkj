@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/211531476?v=4" alt="Foto de Paulo Ricardo" width="180" height="180" style="border-radius: 50%;" />
 </p>
-coloque um animação da cobrinha dentro desse codigo para eu colocar no meu GitHub.
 
 <h3 align="center">🚀 Desenvolvedor Front-End em formação</h3>
 
