@@ -9,7 +9,7 @@
 <p align="center">
   Sou um desenvolvedor apaixonado por tecnologia e interfaces modernas.  
   Tenho conhecimentos em <strong>HTML, CSS, JavaScript, GitHub</strong> e estou me aprofundando em <strong>React, Node.js e TypeScript</strong>.  
-  Estudo atualmente no <strong>DevClub</strong> e curso <strong>Análise e Desenvolvimento de Sistemas</strong>.  
+  Estudo atualmente no <strong>DevClub</strong> e cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.  
   Busco oportunidades para crescer como desenvolvedor e colaborar com soluções criativas e eficientes.
 </p>
 
