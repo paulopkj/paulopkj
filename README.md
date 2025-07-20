@@ -56,7 +56,7 @@
 ### 📄 Baixe meu currículo:
 
 <p align="center">
-  <a href="http://127.0.0.1:5500/CURICULO/Curiculo.html" download target="_blank">
+  <a href="file:///Users/pauloricardo/Downloads/Currículo%20-%20Paulo%20Ricardo.webarchive" download target="_blank">
     <img src="https://img.shields.io/badge/Baixar%20Currículo-00C897?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar Currículo">
   </a>
 </p>
