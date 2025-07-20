@@ -63,18 +63,6 @@
 
 ---
 
-### 📈 Estatísticas do GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulopkj&show_icons=true&theme=radical" alt="Estatísticas GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulopkj&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 👀 Visualizações do Perfil:
 
 <p align="center">
