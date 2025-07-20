@@ -44,10 +44,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://seu-link.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-00C897?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-  </a>
-
 </p>
 
 
