@@ -56,7 +56,8 @@
 ### 📄 Baixe meu currículo:
 
 <p align="center">
-  <a href="file:///Users/pauloricardo/Downloads/Currículo%20-%20Paulo%20Ricardo.webarchive" download target="_blank">
+  <a href="https://github.com/paulopkj/curriculo/raw/main/curriculo-paulo-ricardo.pdf
+" download target="_blank">
     <img src="https://img.shields.io/badge/Baixar%20Currículo-00C897?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar Currículo">
   </a>
 </p>
