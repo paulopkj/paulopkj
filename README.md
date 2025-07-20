@@ -53,15 +53,6 @@
 
 ---
 
-### 📄 Baixe meu currículo:
-
-<p align="center">
-  <a href="https://github.com/paulopkj/curriculo/raw/main/curriculo-paulo-ricardo.pdf">
-    <img src="https://img.shields.io/badge/Baixar%20Currículo-00C897?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar Currículo">
-  </a>
-</p>
-
----
 
 ### 👀 Visualizações do Perfil:
 
