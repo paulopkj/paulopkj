@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Paulo Ricardo</h1>
+<h1 align="center">👋 Olá, sou Paulo Ricardo</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/211531476?v=4" alt="Foto de Paulo Ricardo" width="180" height="180" style="border-radius: 50%;" />
