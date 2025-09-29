@@ -4,13 +4,17 @@
   <img src="https://avatars.githubusercontent.com/u/211531476?v=4" alt="Foto de Paulo Ricardo" width="180" height="180" style="border-radius: 50%;" />
 </p>
 
-<h3 align="center">🚀 Desenvolvedor Front-End em formação</h3>
+<h3 align="center">🚀 Desenvolvedor Web Full Stack</h3>
 
 <p align="center">
-  Sou um desenvolvedor apaixonado por tecnologia e interfaces modernas.  
-  Tenho conhecimentos em <strong>HTML, CSS, JavaScript, GitHub</strong> e estou me aprofundando em <strong>React, Node.js e TypeScript</strong>.  
-  Estudo atualmente no <strong>DevClub</strong> e cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.  
-  Busco oportunidades para crescer como desenvolvedor e colaborar com soluções criativas e eficientes.
+
+💻 Desenvolvedor Web Full Stack em formação, apaixonado por criar soluções digitais eficientes e escaláveis.
+
+🚀 Experiência prática em HTML, CSS, JavaScript, React, TypeScript, Node.js, Git e design de interfaces com Figma.
+
+🛠️ Habilidades: desenvolvimento full stack, criação de aplicações web responsivas, resolução de problemas, colaboração em equipe e aprendizado rápido.
+
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas (Faculdade UniRios) e desenvolvimento front-end pelo DevClub (Rodolfo Mori).
 </p>
 
 ---
