@@ -1,13 +1,12 @@
 <h1 align="center">👋 Olá, sou Paulo Ricardo</h1>
 
-<p align="center">
+<div align="center">
   <img 
-    src="https://media.licdn.com/dms/image/v2/D4D35AQHENiHNb1WSeg/profile-framedphoto-shrink_400_400/B4DZmSOw.JJAAc-/0/1759094968464?e=1759716000&v=beta&t=2AEJkXybFLTElFJdLV0ljOmxr86jEqse9nMA_o8_uXc" 
+    src="!(https://github.com/user-attachments/assets/bde394b7-b2ed-478b-83aa-3cd036331b7a)" 
     width="180" 
     height="180" 
-    style="border-radius: 50%; display:block; margin:auto;" 
   />
-</p>
+</div>
 
 <h3 align="center">🚀 Desenvolvedor Web Full Stack</h3>
 
