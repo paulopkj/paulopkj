@@ -2,9 +2,9 @@
 
 <div align="center">
   <img 
-    src="!(https://github.com/user-attachments/assets/bde394b7-b2ed-478b-83aa-3cd036331b7a)" 
-    width="180" 
-    height="180" 
+    src="https://private-user-images.githubusercontent.com/211531476/508733760-bde394b7-b2ed-478b-83aa-3cd036331b7a.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIxMDc0NjQsIm5iZiI6MTc2MjEwNzE2NCwicGF0aCI6Ii8yMTE1MzE0NzYvNTA4NzMzNzYwLWJkZTM5NGI3LWIyZWQtNDc4Yi04M2FhLTNjZDAzNjMzMWI3YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwMlQxODEyNDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NTY0ZWZlMjA3MGQyNDZhZWIxNDYxNmVmNTM5ZDlkMmE0MWZjZDdmZDhmMjY0NTZiNDk1Y2MzNGI3NGM4ZmE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TyDtWxFfKW0Z2xwBUWIHmwB7XKV92-X_w16_RgpfPOI" 
+    width="280" 
+    height="280" 
   />
 </div>
 
@@ -18,7 +18,7 @@
 
 🛠️ Habilidades: desenvolvimento full stack, criação de aplicações web responsivas, resolução de problemas, colaboração em equipe e aprendizado rápido.
 
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas (Faculdade UniRios) e desenvolvimento front-end pelo DevClub (Rodolfo Mori).
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas (Faculdade UniRios) e Desenvolvimento Full Stack pelo DevClub (Rodolfo Mori).
 </p>
 
 ---
