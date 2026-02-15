@@ -3,7 +3,7 @@
 <div align="center">
   <img 
     src="https://github.com/user-attachments/assets/e385602a-6006-4b90-afa5-dcd397888574?raw=true&format=png"
-    width="280"
+    width="250"
     height="280"
     style="border-radius: 50%; object-fit: cover; display: inline-block;"
   />
