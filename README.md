@@ -14,7 +14,7 @@
 
 <p align="center">
 
-💻 Desenvolvedor Web Full Stack em formação, apaixonado por criar soluções digitais eficientes e escaláveis.
+💻 Desenvolvedor Web Full Stack, apaixonado por criar soluções digitais eficientes e escaláveis. Sempre focado na criação de interfaces modernas, responsivas e com ótima experiência do usuário. Autodidata, colaborativo e orientado à resolução de problemas e entrega de resultados.
 
 🚀 Experiência prática em HTML, CSS, JavaScript, React, TypeScript, Node.js, Git e design de interfaces com Figma.
 
