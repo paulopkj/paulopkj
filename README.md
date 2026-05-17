@@ -86,50 +86,66 @@ Transformando ideias em experiências digitais modernas, responsivas e funcionai
 
 <h2 align="center">🌟 Projetos em Destaque</h2>
 
-# 🚀 TaskFlow Pro
+---
+
+## 🚀 Portfólio Profissional
+
+🌐 Portfólio moderno e responsivo desenvolvido para apresentar meus projetos, habilidades e evolução como Desenvolvedor Full Stack.
+
+✨ Focado em design moderno, performance e experiência do usuário.
+
+🛠️ Tecnologias:  
+HTML • CSS • JavaScript
+
+🔗 Repositório:  
+https://github.com/paulopkj/portfolio-paulo-ricardo.git
+
+---
+
+## 🚀 TaskFlow Pro
 
 📱 Sistema moderno de gerenciamento de tarefas.
 
-🛠️ Tecnologias:
+🛠️ Tecnologias:  
 HTML • CSS • JavaScript • Node.js
 
-🔗 Repositório:
+🔗 Repositório:  
 https://github.com/paulopkj/taskflow-pro
 
 ---
 
-# 🚀 Galpão Fitness
-
-🏋️ Landing page moderna para academia.
-
-🛠️ Tecnologias:
-HTML • CSS • JavaScript
-
-🔗 Repositório:
-https://github.com/paulopkj/galpao-fitness
-
----
-
-# 🚀 GabFisio
+## 🚀 GabFisio
 
 💙 Website profissional para clínica de fisioterapia.
 
-🛠️ Tecnologias:
+🛠️ Tecnologias:  
 HTML • CSS • JavaScript
 
-🔗 Repositório:
-https://github.com/paulopkj/gab-fisio
+🔗 Repositório:  
+https://github.com/paulopkj/GabFisio.git
 
 ---
 
-# 🚀 Currency Converter
+## 🚀 Galpão Fitness
+
+🏋️ Landing page moderna para academia.
+
+🛠️ Tecnologias:  
+HTML • CSS • JavaScript
+
+🔗 Repositório:  
+https://github.com/paulopkj/galpao-fitness-website.git
+
+---
+
+## 🚀 Currency Converter
 
 💱 Conversor de moedas com JavaScript.
 
-🛠️ Tecnologias:
+🛠️ Tecnologias:  
 HTML • CSS • JavaScript
 
-🔗 Repositório:
+🔗 Repositório:  
 https://github.com/paulopkj/currency-converter-js
 
 ---
@@ -140,12 +156,12 @@ https://github.com/paulopkj/currency-converter-js
 
 <img 
 height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=paulopkj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=paulopkj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 />
 
 <img 
 height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopkj&layout=compact&langs_count=7&theme=tokyonight"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopkj&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"
 />
 
 </p>
