@@ -174,18 +174,18 @@ https://github.com/paulopkj/currency-converter-js
 
 ---
 
-<h2 align="center">🏆 Conquistas GitHub</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=paulopkj&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 <h2 align="center">🐍 Contribuições</h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/paulopkj/paulopkj/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h2 align="center">🏆 Conquistas GitHub</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=paulopkj&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
