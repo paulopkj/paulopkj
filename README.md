@@ -1,8 +1,12 @@
 <h1 align="center">🚀 Paulo Ricardo</h1>
 
-<h3 align="center">
-Desenvolvedor Full Stack • Front-End Developer
-</h3>
+<br>
+
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Criando+interfaces+modernas;Sempre+aprendendo+novas+tecnologias" />
+
+</div>
 
 <p align="center">
 Transformando ideias em experiências digitais modernas, responsivas e funcionais.
@@ -154,15 +158,9 @@ https://github.com/paulopkj/currency-converter-js
 
 <p align="center">
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=paulopkj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Paulopkj&show_icons=true&theme=tokyonight"/>
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopkj&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"
-/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Paulopkj&layout=compact&theme=tokyonight"/>
 
 </p>
 
