@@ -106,18 +106,6 @@ https://github.com/paulopkj/portfolio-paulo-ricardo.git
 
 ---
 
-## 🚀 TaskFlow Pro
-
-📱 Sistema moderno de gerenciamento de tarefas.
-
-🛠️ Tecnologias:  
-HTML • CSS • JavaScript • Node.js
-
-🔗 Repositório:  
-https://github.com/paulopkj/taskflow-pro
-
----
-
 ## 🚀 GabFisio
 
 💙 Website profissional para clínica de fisioterapia.
