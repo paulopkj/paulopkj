@@ -147,7 +147,7 @@ Meu objetivo é transformar ideias em soluções digitais de qualidade e evoluir
 
 <p align="center">
 
-<a href="https://portfolio-paulo.vercel.app">
+<a href="https://portfolio-paulo-ricardo.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-00C853?style=for-the-badge"/>
 </a>
 
