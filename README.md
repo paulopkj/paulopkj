@@ -1,18 +1,20 @@
-<h1 align="center">🚀 Paulo Ricardo</h1>
-
-<br>
+<h1 align="center">👋 Olá, eu sou Paulo Ricardo</h1>
 
 <p align="center">
-Transformando ideias em experiências digitais modernas, responsivas e funcionais.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=2500&color=00FF88&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Criando+interfaces+modernas;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo;Open+to+Work+🚀" />
 </p>
 
 ---
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Focus-FullStack-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-React%20%7C%20Node.js-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-FullStack-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Work-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-React%20%7C%20Node.js-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-Fortaleza%20CE-1976D2?style=for-the-badge"/>
 
 </p>
 
@@ -24,32 +26,32 @@ Transformando ideias em experiências digitais modernas, responsivas e funcionai
 
 </div>
 
+<p align="center">
+
+💻 Desenvolvedor Full Stack
+
+📍 Fortaleza • CE • Brasil
+
+🎓 ADS • UniRios
+
+🚀 Formação Full Stack • DevClub
+
+</p>
+
 ---
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
 <p align="center">
-💻 Desenvolvedor Full Stack em transição de carreira.
-</p>
 
-<p align="center">
-🚀 Focado em desenvolvimento web moderno, interfaces responsivas e experiência do usuário.
-</p>
+Sou Desenvolvedor Full Stack em transição de carreira, apaixonado por tecnologia e desenvolvimento web.
 
-<p align="center">
-🧠 Perfil autodidata, colaborativo e orientado à resolução de problemas.
-</p>
+Tenho foco na criação de interfaces modernas, responsivas e acessíveis, sempre buscando escrever código limpo e boas práticas.
 
-<p align="center">
-🎯 Atualmente construindo projetos práticos para fortalecer meu portfólio profissional.
-</p>
+Atualmente curso Análise e Desenvolvimento de Sistemas pela UniRios e complemento minha formação prática na DevClub.
 
-<p align="center">
-🎓 Cursando Análise e Desenvolvimento de Sistemas — UniRios
-</p>
+Meu objetivo é transformar ideias em soluções digitais de qualidade e evoluir continuamente como desenvolvedor.
 
-<p align="center">
-🚀 Formação Full Stack — DevClub
 </p>
 
 ---
@@ -82,57 +84,195 @@ Transformando ideias em experiências digitais modernas, responsivas e funcionai
 
 ---
 
+<h2 align="center">
+📚 Atualmente Estudando
+</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database-Learning-4CAF50?style=for-the-badge"/>
+
+</p>
+
+---
+
+<h2 align="center">
+🎓 Formação
+</h2>
+
+<p align="center">
+
+🎓 Cursando: Análise e Desenvolvimento de Sistemas — UniRios
+
+🚀 Formação Full Stack — DevClub
+
+</p>
+
+---
+
 <h2 align="center">🌟 Projetos em Destaque</h2>
 
 ---
 
-## 🚀 Portfólio Profissional
+<h3 align="center">🚀 Portfólio Profissional</h3>
 
-🌐 Portfólio moderno e responsivo desenvolvido para apresentar meus projetos, habilidades e evolução como Desenvolvedor Full Stack.
+<p align="center">
+<img width="900" alt="Portfólio" src="https://github.com/user-attachments/assets/17343063-8c62-4397-87f0-1cb1166f89ce" />
+</p>
 
-✨ Focado em design moderno, performance e experiência do usuário.
+<p align="center">
 
-🛠️ Tecnologias:  
-HTML • CSS • JavaScript
+🌐 Website moderno desenvolvido para apresentar meus projetos, habilidades e evolução como Desenvolvedor Full Stack.
 
-🔗 Repositório:  
-https://github.com/paulopkj/portfolio-paulo-ricardo.git
+</p>
+
+<p align="center">
+
+🛠️ <strong>Tecnologias:</strong>
+<br>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://portfolio-paulo.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/paulopkj/portfolio-paulo-ricardo">
+<img src="https://img.shields.io/badge/💻%20Código-0A66C2?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-## 🚀 GabFisio
+<h3 align="center">🪵 Movelar Planejados</h3>
 
-💙 Website profissional para clínica de fisioterapia.
+<p align="center">
+  
+<img width="900" alt="Projeto Movelar Planejados" src="https://github.com/user-attachments/assets/fe52b11b-fbc8-495b-96d1-79859c26a92f" />
 
-🛠️ Tecnologias:  
-HTML • CSS • JavaScript
+</p>
 
-🔗 Repositório:  
-https://github.com/paulopkj/GabFisio.git
+<p align="center">
+
+Website institucional desenvolvido para uma empresa de móveis planejados, destacando serviços, projetos e identidade visual moderna.
+
+</p>
+
+<p align="center">
+
+🛠️ <strong>Tecnologias:</strong>
+<br>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://movelar-planejados.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/paulopkj/movelar-planejados">
+<img src="https://img.shields.io/badge/💻%20Código-0A66C2?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-## 🚀 Galpão Fitness
+<h3 align="center">💙 GabFisio</h3>
 
-🏋️ Landing page moderna para academia.
+<p align="center">
 
-🛠️ Tecnologias:  
-HTML • CSS • JavaScript
+<img width="900" alt="Projeto da GabFisio" src="https://github.com/user-attachments/assets/53b49d7f-e2fa-41e7-b85b-ca21f0a347f0" />
 
-🔗 Repositório:  
-https://github.com/paulopkj/galpao-fitness-website.git
+</p>
+
+<p align="center">
+
+Website profissional desenvolvido para uma clínica de fisioterapia com foco em credibilidade, responsividade e experiência do usuário.
+
+</p>
+
+<p align="center">
+
+🛠️ <strong>Tecnologias:</strong>
+<br>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://gab-fisio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/paulopkj/GabFisio">
+<img src="https://img.shields.io/badge/💻%20Código-0A66C2?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-## 🚀 Currency Converter
+<h3 align="center">💱 Currency Converter</h3>
 
-💱 Conversor de moedas com JavaScript.
+<p align="center">
 
-🛠️ Tecnologias:  
-HTML • CSS • JavaScript
+<img width="900" alt="Conversor de Moedas" src="https://github.com/user-attachments/assets/34b8d4b8-ea35-4afd-8d94-1bbf908cea31" />
 
-🔗 Repositório:  
-https://github.com/paulopkj/currency-converter-js
+</p>
+
+<p align="center">
+
+Aplicação para conversão de moedas em tempo real, proporcionando uma experiência prática e intuitiva ao usuário.
+
+</p>
+
+<p align="center">
+
+🛠️ <strong>Tecnologias:</strong>
+<br>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://currency-converter-js-livid.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Ver%20Projeto-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/paulopkj/currency-converter-js">
+<img src="https://img.shields.io/badge/💻%20Código-0A66C2?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
@@ -156,18 +296,66 @@ https://github.com/paulopkj/currency-converter-js
 
 ---
 
-<h2 align="center">🐍 Contribuições</h2>
+<h2 align="center">
+📈 GitHub Activity Graph
+</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/paulopkj/paulopkj/output/github-contribution-grid-snake.svg" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paulopkj&theme=tokyo-night&hide_border=true&area=true"/>
+
 </p>
 
 ---
 
-<h2 align="center">🏆 Conquistas GitHub</h2>
+<h2 align="center">📈 Roadmap de Evolução</h2>
+
+<table align="center">
+
+<tr>
+<td><strong>💻 HTML5</strong></td>
+<td>██████████</td>
+<td><strong>100%</strong></td>
+</tr>
+
+<tr>
+<td><strong>🎨 CSS3</strong></td>
+<td>█████████░</td>
+<td><strong>90%</strong></td>
+</tr>
+
+<tr>
+<td><strong>🟨 JavaScript</strong></td>
+<td>████████░░</td>
+<td><strong>70%</strong></td>
+</tr>
+
+<tr>
+<td><strong>⚛️ React</strong></td>
+<td>██████░░░░</td>
+<td><strong>40%</strong></td>
+</tr>
+
+<tr>
+<td><strong>🟩 Node.js</strong></td>
+<td>█████░░░░░</td>
+<td><strong>70%</strong></td>
+</tr>
+
+<tr>
+<td><strong>🔷 TypeScript</strong></td>
+<td>████░░░░░░</td>
+<td><strong>Em aprendizado</strong></td>
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🐍 Contribuições</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=paulopkj&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://raw.githubusercontent.com/paulopkj/paulopkj/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -194,4 +382,18 @@ https://github.com/paulopkj/currency-converter-js
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=paulopkj&label=Visualizações&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h3 align="center">
+
+Obrigado pela visita! 🚀
+
+</h3>
+
+<p align="center">
+
+Se algum projeto chamou sua atenção, fique à vontade para entrar em contato.
+
 </p>
