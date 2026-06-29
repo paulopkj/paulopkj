@@ -2,12 +2,6 @@
 
 <br>
 
-<div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Criando+interfaces+modernas;Sempre+aprendendo+novas+tecnologias" />
-
-</div>
-
 <p align="center">
 Transformando ideias em experiências digitais modernas, responsivas e funcionais.
 </p>
@@ -24,11 +18,11 @@ Transformando ideias em experiências digitais modernas, responsivas e funcionai
 
 ---
 
-<p align="center">
+<div align="center">
+  
+<img width="354" height="354" alt="IMAGEM REDONDA" src="https://github.com/user-attachments/assets/b270424b-1c88-44c5-b92f-1e477dbc64ad" />
 
-<img width="250" alt="Foto do site GPT" src="https://github.com/user-attachments/assets/52707360-8666-482c-a1c1-e14f59cb5a8f" />
-
-</p>
+</div>
 
 ---
 
